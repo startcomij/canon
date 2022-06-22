@@ -8,7 +8,7 @@ Canon IJ Setup | ij.start.canon | Canon.com.ijsetup
 	  :align: center  
 	  :height: 100px
 	  :alt: ij.start.canon
-	  :target: http://hp123-setup.s3-website-us-west-1.amazonaws.com
+	  :target: http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com
     
 |
 
